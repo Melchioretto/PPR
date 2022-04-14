@@ -1,0 +1,35 @@
+- O que o sistema é;
+    O sistema é um site para fazer apostas com dinheiro ou skins dos jogos: DOTA2 e Counter-Strike.
+
+- O que o sistema não é;
+    O sistema não é feito para apostar contas ou apostar em outros jogos além de DOTA2 e Counter-Strike.
+
+- O que o sistema faz;
+    Aposta de dinheiro ou intens.
+
+- O que o sistema não faz.
+    Não permite trocas ou apostas em outros jogos.
+
+Requisitos funcionais:
+
+RF1: O software deve permitir o usuario fazer um cadastro no site e vincular com a conta steam.
+RF2: O software deve permitir o usuario adicionar ou sacar dinheiro.
+RF3: O software deve permitir a associação de apostar os itens e o saldo ao mesmo tempo.
+RF4: O software deve permitir ultilizar os itens da conta steam na qual está vinculada com a conta do software.
+RF5: O software deve ultilizar os dados dos sites "Liquipedia" e "Hltv" como base para as apostas.
+RF6: O software deve mostrar a porcentagem de pessoas que apostaram em um devido time.
+RF7: O software deve mostrar o quanto o usuario vai receber caso vença a aposta.
+RF8: O software de ve mostrar todas as apostas em andamento e finalizadas.
+
+Requisitos não funcionais:
+
+RNF1: O software não deve permitir cancelar uma aposta. 
+RNF2: O software não dave permitir apostas interna entre usuarios.
+RNF3: O software não permite outros jogos além de DOTA2 e Counter-Strike
+
+Requisitos de negócio:
+
+RN1: As apostas tem um valor minimo de R$10,00.
+RN2: Não será possível fazer o uso do dinheiro da steam.
+RN3: 5% do valor geral das aposta vai para casa.
+RN4: O valor da recompensa deve ser depositado no momento que acabar o jogo.
